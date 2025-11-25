@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snaplink.API", "Snaplink.API\Snaplink.API.csproj", "{AEB1539E-9AD2-4E89-A43B-4579F95CDB73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snaplink.Application", "Snaplink.Application\Snaplink.Application.csproj", "{B09B4633-4CE5-464E-8EF4-7FD214B23CC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snaplink.Core", "Snaplink.Core\Snaplink.Core.csproj", "{3F42CA87-9DB1-4725-AF7C-11D740CB3AC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snaplink.Infrastructure", "Snaplink.Infrastructure\Snaplink.Infrastructure.csproj", "{AC264626-CFD8-41C1-AE62-E5DE9AA3B28D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB1539E-9AD2-4E89-A43B-4579F95CDB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB1539E-9AD2-4E89-A43B-4579F95CDB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB1539E-9AD2-4E89-A43B-4579F95CDB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB1539E-9AD2-4E89-A43B-4579F95CDB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B09B4633-4CE5-464E-8EF4-7FD214B23CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B09B4633-4CE5-464E-8EF4-7FD214B23CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B09B4633-4CE5-464E-8EF4-7FD214B23CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B09B4633-4CE5-464E-8EF4-7FD214B23CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F42CA87-9DB1-4725-AF7C-11D740CB3AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F42CA87-9DB1-4725-AF7C-11D740CB3AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F42CA87-9DB1-4725-AF7C-11D740CB3AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F42CA87-9DB1-4725-AF7C-11D740CB3AC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC264626-CFD8-41C1-AE62-E5DE9AA3B28D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC264626-CFD8-41C1-AE62-E5DE9AA3B28D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC264626-CFD8-41C1-AE62-E5DE9AA3B28D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC264626-CFD8-41C1-AE62-E5DE9AA3B28D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89393589-49CD-4608-8962-3BAC3DEF620D}
+	EndGlobalSection
+EndGlobal
